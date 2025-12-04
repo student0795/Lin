@@ -1,0 +1,17 @@
+ip a
+
+whois google.com
+
+traceroute google.com
+
+telnet google.com 443
+
+ping google.com
+
+ping youtube.com
+
+ls && pwd
+
+route
+
+dig youtube.com
