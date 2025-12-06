@@ -1,0 +1,9 @@
+sudo apt-get update 
+
+sudo apt-get intall gedit
+
+sudo su 
+
+#hostname
+
+gedit /etc/hostname
