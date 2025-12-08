@@ -4,6 +4,6 @@ sudo apt-get intall gedit
 
 sudo su 
 
-#hostname
+hostname
 
 gedit /etc/hostname
