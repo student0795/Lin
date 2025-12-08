@@ -1,0 +1,23 @@
+sudo su 
+
+useradd -d /data/student2 student2
+
+passwd student2
+
+useradd -u 1020 student3
+
+passwd student3
+
+groupadd admins 
+
+groupadd webadmin 
+
+useradd -G admin ,webadmin employee1
+
+id employee1
+
+useradd -M user1
+
+useradd -e 2022-02-20 tempuser1
+
+
