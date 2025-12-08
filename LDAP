@@ -7,3 +7,7 @@ sudo su
 hostname
 
 gedit /etc/hostname
+
+reboot
+
+ifconfig
